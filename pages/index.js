@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Nathan Olin! I'm a proud father of two kiddos, Kai (2 1/2
+          Hi, I'm Nathan Olin! I'm the proud father of two kiddos, Kai (2 1/2
           years old) & Olivia (7 months old). I've been married for 4 years to
           my amazing high school sweetheart, Savanna. If you want to know
           anything more, reach out!
