@@ -15,10 +15,6 @@ export default function Home() {
           my amazing high school sweetheart, Savanna. If you want to know
           anything more, reach out!
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
     </Layout>
   );
