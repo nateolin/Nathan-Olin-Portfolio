@@ -22,10 +22,15 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Nathan Olin! I'm the proud father of two kiddos, Kai (2 1/2
-          years old) & Olivia (7 months old). I've been married for 4 years to
-          my amazing high school sweetheart, Savanna. If you want to know
-          anything more, reach out!
+          Hi, my name is Nathan Olin, a software engineer out of the
+          Minneapolis/St. Paul area. I love designing and creating unique
+          digital experiences. Currently, I'm focused on building accessible,
+          intuitive applications at Travelers Insurance.
+        </p>
+        <p>
+          Family is everything to me. I'm married with two beautiful children
+          and savor every moment I get with them. We thoroughly love hiking,
+          camping, and just about anything outdoors.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
