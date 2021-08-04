@@ -28,9 +28,10 @@ export default function Home({ allPostsData }) {
           intuitive applications at Travelers Insurance.
         </p>
         <p>
-          Family is everything to me. I'm married with two beautiful children
-          and savor every moment I get with them. We thoroughly love hiking,
-          camping, and just about anything outdoors.
+          I wouldn't be able to do what I do without the support of my family.
+          I'm married with two beautiful children and savor every moment with
+          them. Our family loves hiking, camping, and just about anything
+          outdoors.
         </p>
       </section>
       {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
